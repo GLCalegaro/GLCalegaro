@@ -3,8 +3,8 @@
 - 👩🏼‍🎓 Sou iniciante no mundo da programação, e estou passando pela transição de carreira buscando oportunidades para desenvolvê-la!
 
 - 📚 Atualmente estou cursando Desenvolvimento Full Stack no bootcamp da Labenu, com alguns projetos finalizados, abaixo os links:
-- https://scratch.mit.edu/projects/723211843 (Criação de jogo de pegar bolinhas com Scratch) 
-- https://tangible-teaching.surge.sh (Projeto de Introdução à Web)
+- https://scratch.mit.edu/projects/723211843 (Criação de jogo de pegar bolinhas com Scratch);
+- https://tangible-teaching.surge.sh (Projeto de site para busca de filmes online utilizando HTML, DOM, JavaScript e CSS);
 
 - 📝 Tecnologias e ferramentas que estou aprendendo: 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
