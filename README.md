@@ -16,6 +16,8 @@
 <a href="https://github.com/GLCalegaro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLCalegaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLCalegaro)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLCalegaro&show_icons=true&theme=gruvbox)
 <!---
 GLCalegaro/GLCalegaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
