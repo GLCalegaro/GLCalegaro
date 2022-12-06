@@ -6,7 +6,7 @@
 - https://scratch.mit.edu/projects/723211843 (Criação de jogo de pegar bolinhas com Scratch);
 - https://tangible-teaching.surge.sh (Projeto de site para busca de filmes online utilizando algumas linguagens como: HTML, JavaScript e CSS);
 
-- 📝 Tecnologias e ferramentas que estou aprendendo: 
+- 📝 Tecnologias e ferramentas: 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 - 📳 Sintam-se à vontade para entrar em contato através dos canais: <div>
 <a href = "mailto:giovaluiza@Giovanna Calegaro"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 <a href="https://github.com/GLCalegaro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLCalegaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  <a href="https://github.com/GLCalegaro/github-readme-stats">
+
 <!---
 GLCalegaro/GLCalegaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
