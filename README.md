@@ -1,6 +1,6 @@
-👋 Hello Devs, sejam bem vindos ao meu perfil GitHub!
+👋 Hello Devs, sejam bem vindos ao meu perfil GitHub! Aqui você encontrará meus projetos pessoais e de estudo.
 
-👩🏼‍🎓 Sou iniciante no mundo da programação, e estou passando pela transição de carreira buscando oportunidades para desenvolvê-la!
+👩🏼‍🎓 Sou iniciante no mundo da programação, estou passando pela transição de carreira e portanto buscando oportunidades para desenvolvê-la!
 
 📚 Atualmente estou cursando Desenvolvimento Full Stack no bootcamp da Labenu, com alguns projetos finalizados, abaixo os links:
 - https://github.com/GLCalegaro/projeto-scratch (Criação de jogo de pegar bolinhas com Scratch);
