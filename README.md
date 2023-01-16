@@ -2,9 +2,9 @@
 
 👩🏼‍🎓 Sou iniciante no mundo da programação, estou passando pela transição de carreira e portanto buscando oportunidades para desenvolvê-la!
 
-📚 Atualmente estou cursando Desenvolvimento Full Stack no bootcamp da Labenu, com alguns projetos finalizados, abaixo os links:
+📚 Atualmente estou cursando Desenvolvimento Full Stack no bootcamp da Labenu, com alguns projetos finalizados:
 - https://github.com/GLCalegaro/projeto-scratch (Criação de jogo de pegar bolinhas com Scratch);
-- https://tangible-teaching.surge.sh (Projeto de site para busca de filmes online utilizando algumas linguagens como: HTML, JavaScript e CSS);
+- https://github.com/GLCalegaro/projeto-intro-web-1/blob/main/README.md (Projeto de site para busca de filmes online utilizando HTML, JavaScript e CSS);
 - https://diligent-blow.surge.sh/home (Esse foi o projeto de introdução aos fundamentos do React, e o objetivo era funcionar como o front-end de um E-Commerce, e algumas ferramentas adicionais utilizadas foram: Redux Toolkit e react-toastify);
 - https://github.com/GLCalegaro/Projeto-Back---Labecommerce-API- (Primeiro projeto de back-end na criação de uma API e sua respectiva documentação)
 
