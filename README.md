@@ -5,7 +5,7 @@
 📚 Atualmente estou cursando Desenvolvimento Full Stack no bootcamp da Labenu, com alguns projetos finalizados:
 - https://github.com/GLCalegaro/projeto-scratch (Criação de jogo de pegar bolinhas com Scratch);
 - https://github.com/GLCalegaro/projeto-intro-web-1 (Projeto de site para busca de filmes online utilizando HTML, JavaScript e CSS);
-- https://diligent-blow.surge.sh/home (Esse foi o projeto de introdução aos fundamentos do React, e o objetivo era funcionar como o front-end de um E-Commerce, e algumas ferramentas adicionais utilizadas foram: Redux Toolkit e react-toastify);
+- https://github.com/GLCalegaro/projeto-frontendreact (Esse foi o projeto de introdução aos fundamentos do React, e o objetivo era funcionar como o front-end de um E-Commerce, e alguns frameworks adicionais utilizados foram: Redux Toolkit e react-toastify);
 - https://github.com/GLCalegaro/Projeto-Back---Labecommerce-API- (Primeiro projeto de back-end na criação de uma API e sua respectiva documentação)
 
 <br>📝 Tecnologias e ferramentas:</br> 
