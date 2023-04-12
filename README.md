@@ -10,7 +10,7 @@
 - https://github.com/GLCalegaro/Projeto-Front-end-Pokedex-API (Este projeto foi feito com React e o Consumo de API, tendo como objetivo funcionar como uma pokedex contendo alguns pokemons, sendo possível fazer algumas interações);
 - https://github.com/GLCalegaro/Projeto-Back---Labecommerce-API- (Primeiro projeto de back-end na criação de uma API e sua respectiva documentação);
 - https://github.com/GLCalegaro/Projeto-Labook (Projeto de back-end, onde foi desenvolvida uma API que funciona como uma rede social sendo possível a interação nos posts entre usuários e outras funcionalidades);
-- https://github.com/GLCalegaro/Projeto-Labeddit-Front-end (Projeto Web Full-Stack desenvolvido no Bootcamp Labenu, onde o usuário tem acesso a rede social Labeddit).
+- https://github.com/GLCalegaro/Projeto-Labeddit-Front-end (Projeto Full-Stack desenvolvido no Bootcamp Labenu, onde o usuário tem acesso a rede social Labeddit).
 
 <br>🗨️ Caso tenha interesse, vamos marcar um bate-papo, sintam-se à vontade para entrar em contato através dos canais:</br> 
 <div>
