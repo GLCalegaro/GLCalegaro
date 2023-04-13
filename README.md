@@ -1,13 +1,13 @@
-<h2 align="center">👋 Hello World, meu nome é Giovanna Calegaro, sejam bem vindos ao meu perfil GitHub!</h2>
-<h4>Aqui você encontrará meus projetos pessoais e de estudo, sintam-se á vontade para explorar!</h4>
+<h2 align="center">👋 Hello World, im Giovanna Calegaro, welcome to my GitHub profile!</h2>
+<h4>Here you will find my personal & studying projects, feel free to explore.</h4>
 
-☑️ Sou Desenvolvedora Web Full-Stack, e através da programação pude descobrir uma nova paixão que se intensifica a cada dia, onde busco como objetivo, ingressar no mundo Tech, assim como desenvolver e atuar com excelência na área de tecnologia.
+☑️ I'm a Developer Web Full-Stack, and trough programing i've been able to found my passion.
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/111308068/231643610-034518db-22e1-43ae-b164-a69d8b81026e.gif" /></p>
 
 
-<br><div align="center">🗨️ Sintam-se à vontade para entrar em contato através dos canais:</br></div> 
+<br><div align="center">🗨️ Feel free to contact me trough the channels:</br></div> 
 <div align="center">
  
 <a href = "mailto:giovaluiza@Giovanna Calegaro"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,7 +15,7 @@
 </div>
  
 <hr></hr>
- <br>🌐 Tecnologias e ferramentas que utilizo:</br> 
+ <br>🌐 Tecnologies & tools:</br> 
  <div>
 <h4>Front-end</h4>
  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" width="120" height="28"/> <img
