@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello World, im Giovanna Calegaro, welcome to my GitHub profile!</h2>
-<h4>Here you will find my personal & studying projects, feel free to explore.</h4>
+<h4 align="center">Here you will find my personal & studying projects, feel free to explore.</h4>
 
-☑️ I'm a Developer Web Full-Stack, and trough programing i've been able to found my passion.
+<h5 align="center">☑️ I'm a Developer Web Full-Stack, and trough programing i've been able to found my passion.</h5>
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/111308068/231643610-034518db-22e1-43ae-b164-a69d8b81026e.gif" /></p>
